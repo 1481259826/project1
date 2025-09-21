@@ -1,0 +1,26 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+.env/
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 运行时生成的图片输出目录
+*_watermark_*/
+
+# 输出文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
