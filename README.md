@@ -7,7 +7,8 @@
 安装依赖：
 ```bash
 pip install -r requirements.txt
-
-使用实例：
+```
+使用示例：
 ```bash
 python -m my_project.cli ./images --font-size 30 --font-color "#FF0000" --position right_bottom
+
